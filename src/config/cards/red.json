@@ -218,7 +218,7 @@
         "description": "PUBLIC REVEAL >> 2 VOTES TO USURP IN EVEN ROOM",
         "links": [],
         "src": "/red/vote.png",
-        "info": "If your room has an even number of players, you may publicly reveal\r\nyour card when attempting to usurp a leader. Your vote to usurp counts\r\nas 2 votes instead of 1 unless the opposing Mayor also publicly reveals\r\ntheir card.",
+        "info": "If your room has an even number of players, you may publicly reveal your card when attempting to usurp a leader. Your vote to usurp counts as 2 votes instead of 1 unless the opposing Mayor also publicly reveals their card.",
         "tags": "v1 official",
         "color_name": "red",
         "difficulty": 5
@@ -262,7 +262,7 @@
         "description": "YOU CAN ONLY CARD SHARE BECAUSE YOU'RE \"SAVVY\"",
         "links": [],
         "src": "/red/telephone.png",
-        "info": "You begin with the \"savvy\" condition. Players with the \"savvy\" condition may only card share. You may not publicly, privately, or color share.\r\n\r\nNote: It is possible for \"savvy\" players to acquire conditions that prevent card sharing (e.g. the \"coy\"\r\nor \"shy\" condition). If this happens, then the \"savvy\" player can't do anything with their card.",
+        "info": "You begin with the \"savvy\" condition. Players with the \"savvy\" condition may only card share. You may not publicly, privately, or color share.\r\n\r\nNote: It is possible for \"savvy\" players to acquire conditions that prevent card sharing (e.g. the \"coy\" or \"shy\" condition). If this happens, then the \"savvy\" player can't do anything with their card.",
         "tags": "v1 official",
         "color_name": "red",
         "difficulty": 3
@@ -274,7 +274,7 @@
         "links": [],
         "backup_for": "r014",
         "src": "/red/screwdriver.png",
-        "info": "You are the backup character for the Engineer. If the Engineer card is buried you must carry out all Engineer responsibilities (i.e. card sharing with the Bomber).",
+        "info": "You are the backup character for the Engineer. If the Engineer card is buried, you must carry out all Engineer responsibilities (i.e. card sharing with the Bomber).",
         "tags": "v1 official",
         "color_name": "red",
         "difficulty": 6

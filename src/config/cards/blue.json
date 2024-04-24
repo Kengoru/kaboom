@@ -318,7 +318,7 @@
         "description": "PERMANENT PUBLIC REVEAL >> TACKLE A PLAYER",
         "links": [],
         "src": "/blue/flashlight.png",
-        "info": "You have the TACKLE power: you may publicly reveal your card, immediately pick any player in the room (besides yourself), then verbally tell them,\"You're going nowhere.\" However, your card must permanently remain publicly revealed for the rest of the game. This means that you can only use this power once. The target of your TACKLE power can't leave as a hostage this round.",
+        "info": "You have the TACKLE power: you may publicly reveal your card, immediately pick any player in the room (besides yourself), then verbally tell them,\"You're going nowhere.\"\r\n\r\nHowever, your card must permanently remain publicly revealed for the rest of the game. This means that you can only use this power once.\r\n\r\nThe target of your TACKLE power can't leave as a hostage this round.",
         "tags": "v1 official",
         "color_name": "blue",
         "difficulty": 5

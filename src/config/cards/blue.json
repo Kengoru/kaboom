@@ -184,7 +184,7 @@
         "description": "FORCE PLAYERS TO CARD SHARE ONCE PER ROUND",
         "links": [],
         "src": "/blue/gun.png",
-        "info": "You have the ENFORCER power: once per round, you may privately reveal your card to 2 players. You must verbally tell your target players, \"You must reveal your cards to one another.\" Those 2 players must card share with one another (not to you). You cannot use this power on yourself, but another Enforcer can use their power on you.\r\n\r\nNote: The ENFORCER power works even on characters that normally can't card share (e.g. Shy Guy).",
+        "info": "You have the ENFORCER power: once per round, you may privately reveal your card to 2 players. You must verbally tell your target players, \"You must reveal your cards to one another.\" Those 2 players must card share with one another (not to you). You cannot use this power on yourself, but another Enforcer can use their power on you.\r\n\r\nNote: The ENFORCER power works even on characters that normally can't card share (e.g. Shy Guy).\r\n\r\nNote: If the Enforcer tries to use his power on 2 players who cannot card share with each other that round because of the BODYGUARD power, his power is wasted.",
         "tags": "v1 official",
         "color_name": "blue",
         "difficulty": 9
@@ -407,7 +407,7 @@
         "description": "PROHIBIT CARD & COLOR SHARES",
         "links": [],
         "src": "/blue/sunglasses.png",
-        "info": "You have the BODYGUARD power: Once per round, you may privately reveal your card to 2 players. You must verbally tell your target players that they cannot reveal any part of their card to each other during that round.\r\n\r\nNote: If the ENFORCER tries to use his power on the targeted players, his powers are wasted.",
+        "info": "You have the BODYGUARD power: once per round, you may privately reveal your card to 2 players. You must verbally tell your target players that they cannot reveal any part of their card to each other during that round.\r\n\r\nNote: If the ENFORCER tries to use his power on the targeted players, his power is wasted.",
         "tags": "custom patch1 v2 friends",
         "color_name": "blue",
         "difficulty": 5

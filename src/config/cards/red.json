@@ -73,7 +73,7 @@
         "description": "KICK AN EXTRA PLAYER OUT",
         "links": [],
         "src": "/red/bouncer.png",
-        "info": "You have the BOUNCER power: if you are in a room that has more players than the other room, you may privately reveal your card to any player and verbally tell them, \"Get out!\" When you do, that player must immediately change rooms. The BOUNCER power does not work during the last round or between rounds. This can only be done once per round",
+        "info": "You have the BOUNCER power: if you are in a room that has more players than the other room, you may privately reveal your card to any player and verbally tell them, \"Get out!\" When you do, that player must immediately change rooms. The BOUNCER power does not work during the last round or between rounds. This can only be done once per round.",
         "tags": "v1 official",
         "color_name": "red",
         "difficulty": 5
@@ -128,7 +128,7 @@
         "description": "MAKE 2 PLAYERS \"IN LOVE\" ONCE PER GAME",
         "links": [],
         "src": "/red/heart.png",
-        "info": "You have the CUPID power: once per game, you may privately reveal your card to 2 players. You must verbally tell your target players, \"You are in love with each other.\" Those 2 players gain the \"in love\" condition. Players with the \"in love\" condition replace their original win objective with the following win objective: Be in the same room with the player with whom you are \"in love\" at the end of the game or fail to win. \r\n\r\nThe CUPID power cannot be used on yourself.\r\n\r\nNote: If a player with the \"in love\" condition were to acquire the \"in hate\" condition, the 2 conditions would cancel one another, leaving that specific player with neither condition.",
+        "info": "You have the CUPID power: once per game, you may privately reveal your card to 2 players. You must verbally tell your target players, \"You are in love with each other.\" Those 2 players gain the \"in love\" condition.\r\n\r\nPlayers with the \"in love\" condition replace their original win objective with the following win objective: be in the same room with the player with whom you are \"in love\" at the end of the game or fail to win. \r\n\r\nThe CUPID power cannot be used on yourself.\r\n\r\nNote: If a player with the \"in love\" condition were to acquire the \"in hate\" condition, the 2 conditions would cancel one another, leaving that specific player with neither condition.",
         "tags": "v1 official",
         "color_name": "red",
         "difficulty": 6
@@ -162,7 +162,7 @@
         "backup_cards": ["r024"],
         "links": [],
         "src": "/red/tool.png",
-        "info": "When playing with the Engineer, the Red Team has the following additional win condition: the Bomber must card share with the Engineer before the end of the game or the Red Team loses. At the end of the game, the Bomber will be asked if he/she card shared with the Engineer. At that time both players will verify or deny having card shared.\r\n\r\nNote: remember that if the President or Bomber character ever switches player control (perhaps due to the Hot Potato), then the new President/Bomber must card share with the Doctor/Engineer to prevent losing.\r\n\r\nNote: When playing with the Defuser, additional rules apply",
+        "info": "When playing with the Engineer, the Red Team has the following additional win condition: the Bomber must card share with the Engineer before the end of the game or the Red Team loses. At the end of the game, the Bomber will be asked if he/she card shared with the Engineer. At that time both players will verify or deny having card shared.\r\n\r\nNote: Remember that if the President or Bomber character ever switches player control (perhaps due to the Hot Potato), then the new President/Bomber must card share with the Doctor/Engineer to prevent losing.\r\n\r\nNote: When playing with the Defuser, additional rules apply.",
         "tags": "v1 official",
         "color_name": "red",
         "difficulty": 5
@@ -173,7 +173,7 @@
         "description": "CARD SHARE WITH THE PRESIDENT >> INSTANT WIN",
         "links": [],
         "src": "/red/bombman.png",
-        "info": "You have the BOOM power: if you card share with the President, everyone in the same room as you instantly gains the \"dead\" condition and the game ends.\r\n\r\nNote: the BOOM power never works on the President's Daughter. If the President is buried, the\r\nBOOM power is never used.",
+        "info": "You have the BOOM power: if you card share with the President, everyone in the same room as you instantly gains the \"dead\" condition and the game ends.\r\n\r\nNote: The BOOM power never works on the President's Daughter. If the President is buried, the BOOM power is never used.",
         "tags": "v1 official",
         "color_name": "red",
         "difficulty": 5

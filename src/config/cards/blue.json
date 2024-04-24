@@ -329,7 +329,7 @@
         "description": "NO SHARING OR REVEALS BECAUSE YOU'RE \"SHY\"",
         "links": [],
         "src": "/blue/facemask.png",
-        "info": "You begin with the \"shy\" condition. Players with the \"shy\" condition may not reveal any part of their card to any player.\r\n\r\nNote: The \"shy\" condition is a psych condition and can be cured by a Psychologist.\r\n\r\nAnother Note: If a player with the \"shy\" condition were to acquire the \"foolish\" condition, the 2\r\nconditions would cancel one another, leaving the player with neither condition.",
+        "info": "You begin with the \"shy\" condition. Players with the \"shy\" condition may not reveal any part of their card to any player.\r\n\r\nNote: The \"shy\" condition is a psych condition and can be cured by a Psychologist.\r\n\r\nAnother Note: If a player with the \"shy\" condition were to acquire the \"foolish\" condition, the 2 conditions would cancel one another, leaving the player with neither condition.",
         "tags": "v1 official",
         "color_name": "blue",
         "difficulty": 4
@@ -351,7 +351,7 @@
         "description": "CARD SHARE >> \"COY\"",
         "links": [],
         "src": "/blue/knuckle.png",
-        "info": "You have the THUG power: any player that card shares with you acquires the \"coy\" condition. Players with the \"coy\"\r\ncondition may only color share unless a character's power might force a card share.\r\n\r\nNote: If a player with the \"foolish\" condition were to acquire the \"coy\" condition, the 2 conditions would cancel one another, leaving the player with neither condition.",
+        "info": "You have the THUG power: any player that card shares with you acquires the \"coy\" condition. Players with the \"coy\" condition may only color share unless a character's power might force a card share.\r\n\r\nNote: If a player with the \"foolish\" condition were to acquire the \"coy\" condition, the 2 conditions would cancel one another, leaving the player with neither condition.",
         "tags": "v1 official",
         "color_name": "blue",
         "difficulty": 4
@@ -362,7 +362,7 @@
         "description": "PERMANENT PUBLIC REVEAL >> BECOME LEADER",
         "links": [],
         "src": "/blue/crown.png",
-        "info": "You have the USURPER power: during any round but the last, you may publicly reveal your card and become the leader. However, your card must permanently remain publicly revealed for the rest of the game. This means that you can only use this power once. You cannot be usurped during the same round in which you used your USURPER power, not even by another Usurper. If 2 Usurpers use their power in the same room during the same round, whichever Usurper used their power first remains the leader, the other Usurper wasted their power.",
+        "info": "You have the USURPER power: during any round but the last, you may publicly reveal your card and become the leader.\r\n\r\nHowever, your card must permanently remain publicly revealed for the rest of the game. This means that you can only use this power once.\r\n\r\nYou cannot be usurped during the same round in which you used your USURPER power, not even by another Usurper. If 2 Usurpers use their power in the same room during the same round, whichever Usurper used their power first remains the leader, the other Usurper wasted their power.",
         "tags": "v1 official",
         "color_name": "blue",
         "difficulty": 6

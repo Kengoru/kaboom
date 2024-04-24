@@ -162,7 +162,7 @@
         "backup_cards": ["b024"],
         "links": [],
         "src": "/blue/medicine.png",
-        "info": "When playing with the Doctor, the Blue Team has the following additional win condition: the President must card share with the Doctor before the end of the game or the Blue Team loses. At the end of the game, the President will be asked if he/she card shared with the Doctor. At that time both players will verify or deny having card shared.\r\n\r\nNote: remember that if the President or Bomber character ever switches player control (perhaps due to the Hot Potato), then the new President/Bomber must card share with the Doctor/Engineer to prevent losing.\r\n\r\nNote: When playing with Poison, additional rules apply.",
+        "info": "When playing with the Doctor, the Blue Team has the following additional win condition: the President must card share with the Doctor before the end of the game or the Blue Team loses. At the end of the game, the President will be asked if he/she card shared with the Doctor. At that time both players will verify or deny having card shared.\r\n\r\nNote: Remember that if the President or Bomber character ever switches player control (perhaps due to the Hot Potato), then the new President/Bomber must card share with the Doctor/Engineer to prevent losing.\r\n\r\nNote: When playing with Poison, additional rules apply.",
         "tags": "v1 official",
         "color_name": "blue",
         "difficulty": 5 
@@ -173,7 +173,7 @@
         "description": "CARD SHARE WITH THE BOMBER AND INSTANTLY WIN",
         "links": [],
         "src": "/blue/knight.png",
-        "info": "You have the HUG power: if you card share with the Bomber, everyone in the same room as you, except the President, gains the \"dead\" condition and the game instantly ends.\r\n\r\nNote: the HUG power never works on the Martyr. If the Bomber is buried, the HUG power is never used.",
+        "info": "You have the HUG power: if you card share with the Bomber, everyone in the same room as you, except the President, gains the \"dead\" condition and the game instantly ends.\r\n\r\nNote: The HUG power never works on the Martyr. If the Bomber is buried, the HUG power is never used.",
         "tags": "v1 official",
         "color_name": "blue",
         "difficulty": 5
@@ -262,7 +262,7 @@
         "description": "YOU CAN ONLY CARD SHARE BECAUSE YOU'RE \"SAVVY\"",
         "links": [],
         "src": "/blue/telephone.png",
-        "info": "You begin with the \"savvy\" condition. Players with the \"savvy\" condition may only card share. You may not publicly, privately, or color share.\r\n\r\nNote: It is possible for \"savvy\" players to acquire conditions that prevent card sharing (e.g. the \"coy\" or \"shy\" condition). If this happens, then the \"savvy\" player can't do anything with their card.",
+        "info": "You begin with the \"savvy\" condition. Players with the \"savvy\" condition may ONLY card share. You may not publicly, privately, or color share.\r\n\r\nNote: It is possible for \"savvy\" players to acquire conditions that prevent card sharing (e.g. the \"coy\" or \"shy\" condition). If this happens, then the \"savvy\" player can't do anything with their card.",
         "tags": "v1 official",
         "color_name": "blue",
         "difficulty": 3
